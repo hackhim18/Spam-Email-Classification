@@ -12,4 +12,4 @@ Machine Learning Algorithm
  
 The Naive Bayes Classifier Formula
 
-One of the most simple yet powerful classifier algorithms, Naive Bayes is based on Bayes’ Theorem Formula with an assumption of independence among predictors. Given a Hypothesis A and evidence B, Bayes’ Theorem calculator states that the relationship between the probability of Hypothesis before getting the evidence P(A) and the probability of the hypothesis after getting the evidence P(A|B) is:
+One of the most simple yet powerful classifier algorithms, Naive Bayes is based on Bayes’ Theorem Formula with an assumption of independence among predictors. Given a Hypothesis A and evidence B, Bayes’ Theorem calculator states that the relationship between the probability of Hypothesis before getting the evidence P(A) and the probability of the hypothesis after getting the evidence.
